@@ -1,0 +1,43 @@
+/* Variables header for application - AppBuilder 2.03  */
+
+/* 'base' Window link */
+const int ABN_base = 0;
+const int ABN_screen = 1;
+const int ABN_scoreLabel = 2;
+const int ABN_toggleButton = 3;
+const int ABN_moveDown = 4;
+const int ABN_leftButton = 5;
+const int ABN_rightButton = 6;
+const int ABN_startGame = 7;
+const int ABN_restartGame = 8;
+const int ABN_scoreLabel0 = 9;
+const int ABN_scoreLabel00 = 10;
+const int ABN_scoreLabel01 = 11;
+const int ABN_scoreLabel02 = 12;
+const int ABN_scoreLabel03 = 13;
+const int ABN_timerDrop = 14;
+const int ABN_difficulty = 15;
+const int ABN_scoreLabel010 = 16;
+const int ABN_scoreLabel030 = 17;
+const int ABN_scoreLabel000 = 18;
+const int ABN_scoreLabel0300 = 19;
+const int ABN_scoreLabel0216 = 20;
+const int ABN_timerDropHard = 21;
+const int ABN_board = 22;
+const int ABN_scoreLabel021 = 23;
+const int ABN_scoreLabel020 = 24;
+const int ABN_scoreLabel022 = 25;
+const int ABN_scoreLabel023 = 26;
+const int ABN_scoreLabel024 = 27;
+const int ABN_scoreLabel025 = 28;
+const int ABN_scoreLabel026 = 29;
+const int ABN_scoreLabel027 = 30;
+const int ABN_scoreLabel028 = 31;
+const int ABN_scoreLabel029 = 32;
+const int ABN_scoreLabel0210 = 33;
+const int ABN_scoreLabel0211 = 34;
+const int ABN_scoreLabel0212 = 35;
+const int ABN_scoreLabel0213 = 36;
+const int ABN_scoreLabel0214 = 37;
+const int ABN_scoreLabel0215 = 38;
+
